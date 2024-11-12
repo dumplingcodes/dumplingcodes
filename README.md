@@ -1,8 +1,7 @@
 
 <img src= "https://i.pinimg.com/originals/a9/9e/41/a99e419272b53630b5d5b178188a8900.gif" width="250" height="250">
 <br>
-coding but make it slay -(๑☆‿ ☆#)ᕗ
-
+Hello, World! -(๑☆‿ ☆#)ᕗ
 
 <!---
 dumplingcodes/dumplingcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +18,8 @@ Frameworks: React
 <br>
 
 <b>Portfolio Website</b>
+<br>
+<a href="https://tplanas21.github.io/theaplanas_portfolio/">Click Here!</a>
 
 
 
