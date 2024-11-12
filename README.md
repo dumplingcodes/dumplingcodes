@@ -1,7 +1,9 @@
 <p align="center">
   
   <img src= "https://i.pinimg.com/originals/a9/9e/41/a99e419272b53630b5d5b178188a8900.gif" width="250" height="250">
-  <br>Hello, World! I'm Thea, an aspiring software developer with a B.S in Computer Science.  (๑☆‿ ☆#)ᕗ
+  <br> <h3>
+    Hello, World! I'm Thea, an aspiring software developer with a B.S in Computer Science.  (๑☆‿ ☆#)ᕗ
+  </h3>
 
   <br>
   <br>
