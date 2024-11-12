@@ -1,7 +1,7 @@
 
 <img src= "https://i.pinimg.com/originals/a9/9e/41/a99e419272b53630b5d5b178188a8900.gif" width="250" height="250">
 <br>
-Hello, World! I'm Thea, an aspiring software developer with a B.S in Computer Science.-(๑☆‿ ☆#)ᕗ
+Hello, World! I'm Thea, an aspiring software developer with a B.S in Computer Science. - (๑☆‿ ☆#)ᕗ
 
 <!---
 dumplingcodes/dumplingcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,13 +9,18 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 <br>
+
 <b>Skills</b>
 <br>
 Programming Languages: HTML, CSS, Java, Python, C
+<br>Libraries: React
+<br>Frameworks: Django
+<br>Other: Node.js, Angular.js
 <br>
-Frameworks: React
-<br>
-<br>
+
+<b>Tools</b>
+<br>AndroidStudio, Eclipse, VisualStudioCode, Git
+<br>Microsoft Office
 
 <b>Portfolio Website</b>
 <br>
